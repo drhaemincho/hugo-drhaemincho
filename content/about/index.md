@@ -1,0 +1,1 @@
+Hey! I'm Dr. Haemin Cho, licensed acupuncturist and traditional Chinese and Korean medicine doctor.
