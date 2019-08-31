@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Dr. Haemin Cho"
 
-theme = "personal-web"
+# theme = "personal-web"
 
 # [params.intro]
 #   main = "Hi, I'm Dr. Haemin Cho :wave:"
@@ -11,7 +11,7 @@ theme = "personal-web"
 # [params.social]
 #   github = "https://github.com/drhaemincho"
 
-# theme = "meghna-hugo"
+theme = "meghna-hugo"
 
 # Menu
 [menu]
