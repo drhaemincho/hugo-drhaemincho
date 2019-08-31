@@ -1,0 +1,3 @@
+[submodule "git@github.com:drhaemincho/meghna-hugo.git"]
+	path = themes/meghna-hugo
+	url = git@github.com:drhaemincho/meghna-hugo.git
