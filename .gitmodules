@@ -1,3 +1,3 @@
-[submodule "git@github.com:drhaemincho/meghna-hugo.git"]
+[submodule "drhaemincho/meghna-hugo"]
 	path = themes/meghna-hugo
-	url = git@github.com:drhaemincho/meghna-hugo.git
+	url = https://github.com/drhaemincho/meghna-hugo.git
